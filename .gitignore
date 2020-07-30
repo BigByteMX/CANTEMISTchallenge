@@ -1,0 +1,5 @@
+cantemist-guidelines
+data
+.ipynb_checkpoints
+*.pptx
+*.zip
